@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "id": 5,
+      "name": "singum",
+      "date of manufacture": "3/23/2023",
+      "expiry": "4/23/2034",
+      "function": "fragrant mouth",
+      "ingredient": "sugar, plasticizer"
+    },
+    {
+      "id": "10",
+      "name": "Lavia",
+      "date": "22/12/2023",
+      "expiry": "22/12/2025",
+      "func": "Giai khat",
+      "ingredient": "Nuoc khoang"
+    },
+    {
+      "id": "1",
+      "name": "3",
+      "date": "4",
+      "expiry": "2",
+      "func": "1",
+      "ingredient": "1"
+    }
+  ]
+}
